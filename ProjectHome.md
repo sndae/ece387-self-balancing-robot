@@ -1,0 +1,1 @@
+The goal of this project was to design a self-balancing robot using an accelerometer and gyroscope controlled by an Arduino Uno.
